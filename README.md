@@ -1,4 +1,4 @@
-# Calculadora de Índice de Massa Corporal (IMC) + Bando de dado
+# Calculadora de Índice de Massa Corporal (IMC) + Banco de dado
 
 ## Descrição do Projeto
 
