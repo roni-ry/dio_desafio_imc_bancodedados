@@ -4,7 +4,7 @@
 
 Este é um projeto open source que visa criar uma calculadora de Índice de Massa Corporal (IMC) simples e eficaz. O IMC é uma métrica amplamente utilizada para avaliar o peso de uma pessoa em relação à sua altura e é uma ferramenta importante para monitorar a saúde e o condicionamento físico.
 
-Usando apenas o console, os usuários podem inserir seu peso e altura e, em seguida, calcular o IMC imediatamente. Além disso, ele fornece interpretações básicas do IMC resultante, como abaixo do peso, peso saudável, sobrepeso e obesidade.
+Com uma interface simples e intuitiva, os usuários podem inserir seu peso e altura e, em seguida, calcular o IMC imediatamente. Além disso, ele fornece interpretações básicas do IMC resultante, como abaixo do peso, peso saudável, sobrepeso e obesidade.
 
 ## Recursos Principais
 
